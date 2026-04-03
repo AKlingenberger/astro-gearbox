@@ -23,7 +23,7 @@ $$G_s = \left( \frac{R_p}{a} \right)^3 \times \left( \frac{1}{M_*} \right)^3$$
 * **$G_s > 1.0$ (High Stress):** Magnetohydrodynamically compromised; severe risk of atmospheric stripping and inductive heating regardless of thermal equilibrium (e.g., TRAPPIST-1 e).
 
 ## Installation
-*(Coming soon to PyPI)*
+`astro-gearbox` is available on PyPI:
 `pip install astro-gearbox`
 
 ## Quick Start
